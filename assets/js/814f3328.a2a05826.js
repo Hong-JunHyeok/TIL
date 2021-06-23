@@ -1,0 +1,1 @@
+(self.webpackChunkblog=self.webpackChunkblog||[]).push([[535],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\ub9ac\ub355\uc2a4 saga\uc5d0 \ub300\ud55c \uacf5\ubd80 (effects)","permalink":"/tli/blog/redux-saga"},{"title":"TIL\uc2dc\uc791\ud558\uae30","permalink":"/tli/blog/start"}]}')}}]);
