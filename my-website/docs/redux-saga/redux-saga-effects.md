@@ -1,11 +1,5 @@
 ---
-slug: redux-saga
-title: 리덕스 saga에 대한 공부 (effects)
-author: Hong-JunHyeok
-author_title: 홍준혁
-author_url: https://github.com/Hong-JunHyeok
-author_image_url: https://avatars.githubusercontent.com/u/48292190?v=4
-tags: [redux, saga, generator]
+sidebar_position: 1
 ---
 
 리덕스는 전역적으로 상태를 관리해주는 라이브러리이다.

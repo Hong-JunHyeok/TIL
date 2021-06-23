@@ -5,33 +5,33 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 module.exports = {
   title: "My Site",
   tagline: "Dinosaurs are cool",
-  url: "https://Hong-JunHyeok.github.io",
-  baseUrl: "/TIL/",
+  url: "https://your-docusaurus-test-site.com",
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "Hong-JunHyeok", // Usually your GitHub org/user name.
-  projectName: "TIL", // Usually your repo name.
+  organizationName: "facebook", // Usually your GitHub org/user name.
+  projectName: "docusaurus", // Usually your repo name.
   themeConfig: {
     navbar: {
       title: "TIL",
       logo: {
-        alt: "TIL Logo",
+        alt: "My Site Logo",
         src: "img/logo.svg",
       },
       items: [
-        { to: "/blog", label: "글", position: "left" },
+        {
+          type: "doc",
+          docId: "intro",
+          position: "left",
+          label: "문서",
+        },
         {
           href: "https://github.com/Hong-JunHyeok/TIL",
           label: "GitHub",
           position: "right",
         },
       ],
-    },
-    footer: {
-      style: "dark",
-      links: [],
-      copyright: `Copyright © ${new Date().getFullYear()} TIL, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: lightCodeTheme,
