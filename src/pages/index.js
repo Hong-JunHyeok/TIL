@@ -12,7 +12,7 @@ function HomepageHeader() {
         <h1 className="hero__title">TIL</h1>
         <p className="hero__subtitle">📚 남는건 기록뿐.</p>
 
-        <Link className="button button--secondary button--lg" to="/docs/intro">
+        <Link className="button button--secondary button--lg" to="/tli/blog">
           Let's docs
         </Link>
       </div>

@@ -6,7 +6,7 @@ module.exports = {
   title: "My Site",
   tagline: "Dinosaurs are cool",
   url: "https://Hong-JunHyeok.github.io",
-  baseUrl: "/tli/",
+  baseUrl: "/TIL/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
