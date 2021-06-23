@@ -1,1 +1,0 @@
-(self.webpackChunkblog=self.webpackChunkblog||[]).push([[663],{1466:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tli/blog/tags","slug":"generator","name":"generator","count":1,"permalink":"/tli/blog/tags/generator"}')}}]);
