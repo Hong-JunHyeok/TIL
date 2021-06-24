@@ -167,6 +167,14 @@ script는 실행한 명령어들을 적는건데, GH_NAME, GH_EMAIL , GET_TOKEN�
 
 이 설정이 완료되었으면, Github에 푸쉬를 한번 해보자.
 
+![](https://images.velog.io/images/hjh040302/post/2bef0f12-acd6-41af-bb52-f1f0681b27cb/image.png)
+
+Running탭에 가보면 진행상황을 할 수 있다.
+
+:::info
+에러가 발생한다면 **에러 로그**를 잘 살펴보도록 하자.
+:::
+
 아마, 잘 해줬다면 다음과 같이 성공을 할것이다.
 ![](https://images.velog.io/images/hjh040302/post/ce26d594-5101-4bb0-b16c-08865b389a08/image.png)
 
